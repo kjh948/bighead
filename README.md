@@ -14,6 +14,8 @@
  4.1 ros2 launch omo_r1mini_navigation2 navigation2.launch.py map:=$HOME/map.yaml
  4.1 ros2 launch omo_r1mini_navigation2 navigation2_rviz.launch.py @ remote pc
 
+
+ 4.2 ros2 launch linorobot2_navigation navigation.launch.py map:=./map.yaml
 #env
 export DISPLAY=:0
 
