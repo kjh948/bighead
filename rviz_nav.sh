@@ -1,0 +1,1 @@
+ros2 launch omo_r1mini_navigation2 navigation2_rviz.launch.py
